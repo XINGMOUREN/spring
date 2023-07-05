@@ -8,16 +8,16 @@
   <p align="center">
     a minecraft vital gallery maker|一个我的世界电子画册生成器
     <br />
-    <a href="https://music.qier222.com" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#%EF%B8%8F-安装" target="blank"><strong>📦️ 下载安装包</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://t.me/yesplaymusic" target="blank"><strong>💬 加入交流群</strong></a>
+    <a href="#" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#" target="blank"><strong>📦️ 下载安装包</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#" target="blank"><strong>💬 加入交流群</strong></a>
     <br />
     <br />
   </p>
 </p>
 
-# 本项目还没开源,目前源代码在私人仓库,我完成自己的礼物后会开源，预计2014年3月份开源~~（也有可能永远也不会开源吧）~~
-# 目前进度:重构了日本浅草寺生成逻辑
+# 本项目还没开源,目前源代码在私人仓库,我完成自己的礼物后会开源，预计2014年3月份开源（也有可能永远也不会开源吧）
+# 目前进度:重构图片生成逻辑
 ## 😒 这是什么？
 一个我的世界电子画册生成器,原理类似于AI绘画,程序会提供给你世界各地的旅游景点,或者我自己写好的,你只需要导入皮肤,自定义成就,就可以自动生成多组照片~~但是对电脑算力有要求~~(这是一给给我好哥们李春迎专门定制的项目,我可能不会对源代码进行大量简易化处理,有能力的可以自己研究)
 ## ✨ 有什么用？
