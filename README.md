@@ -37,6 +37,6 @@
 ![](images/demo0.png)
 ![](images/demo1.png)
 ![](images/demo2.png)
-![](images/demo3.png)
+![](images/demo3.jpg)
 
 这么久了,你还是放不下哪个女孩吗?
